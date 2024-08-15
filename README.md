@@ -10,5 +10,5 @@ This is a demo app showcasing the **Hero Animation** in Flutter. The Hero widget
 
 ## Demo
 
-![Hero Animation Demo]()
+![Hero Animation Demo](screen_shots/demo.gif)
 
